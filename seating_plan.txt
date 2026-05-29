@@ -1,0 +1,39 @@
+Table 1:
+- Vanessa
+- Stephane
+- Ibtihel
+- Gunay
+
+Table 2:
+- Neha
+- Hiba
+- Thi
+- Uzair
+
+Table 3:
+- Ibrahim
+- Sooyoung
+- Jeong
+- Imad
+
+Table 4:
+- Hussein
+- Sitara
+- Iness
+- Victor
+
+Table 5:
+- Anna
+- Guillermo
+- Dan
+- Siegried
+
+Table 6:
+- Irene
+- Gaetan
+- Mahalakshmi
+- Max
+
+Total capacity: 24 seats
+Assigned people: 24
+Seats left: 0
