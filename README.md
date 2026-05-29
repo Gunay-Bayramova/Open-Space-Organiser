@@ -31,6 +31,7 @@ This project was created as part of the BeCode AI Bootcamp to practice Object-Or
 
 ```text
 .
+├── notebook_guide.ipynb
 ├── README.md
 ├── main.py
 ├── new_colleagues.txt
